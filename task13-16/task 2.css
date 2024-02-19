@@ -1,0 +1,38 @@
+.one {
+    background-color: darkred;
+    padding: 10px;
+    display: inline-block;
+    margin: 20px;
+    max-width: 400px;
+    color: white;
+}
+
+.two {
+    background-color: darkred;
+    padding: 10px;
+    margin: 20px;
+    display: inline-block;
+    max-width: 400px;
+    color: white;
+}
+
+.three {
+    background-color: darkred;
+    padding: 10px;
+    display: inline-block;
+    margin: 20px;
+    max-width: 400px;
+    color: white;
+}
+
+.four {
+    background-color: darkred;
+    padding: 10px;
+    display: inline-block;
+    margin: 20px;
+
+    color: white;
+    overflow: hidden;
+    width: 200px;
+    height: 50px;
+}

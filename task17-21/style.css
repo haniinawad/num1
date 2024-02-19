@@ -1,0 +1,72 @@
+.five {
+    background-color: #f9f9f9;
+    color: black;
+    text-shadow: 2px 2px red;
+
+
+
+}
+
+.one {
+    text-transform: uppercase;
+    line-height: 100px;
+}
+
+.two {
+    text-transform: capitalize;
+    line-height: 100px;
+}
+
+.three {
+    text-transform: lowercase;
+    line-height: 100px;
+
+
+}
+
+
+
+.six {
+    background-color: lightgrey;
+    width: 400px;
+    height: 10px;
+    padding: 20px;
+    margin: 20px;
+    overflow: hidden;
+}
+
+.seven {
+    background-color: lightgrey;
+    width: 400px;
+    height: 10px;
+    padding: 20px;
+    margin: 20px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+
+}
+
+.eight {
+    background-color: lightgrey;
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.nine {
+    background-color: mediumaquamarine;
+    color: #f9f9f9;
+    vertical-align: middle;
+    border: auto green;
+    width: 300px;
+    height: 200px;
+    text-decoration: none;
+    text-align: center;
+    text-size-adjust: 50px;
+    padding: auto;
+    margin: auto;
+    white-space: nowrap;
+    border-bottom: green 50px;
+
+}
